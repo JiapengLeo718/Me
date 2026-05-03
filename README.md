@@ -83,7 +83,7 @@ Tools         : Git | Matlab | Solidworks
 ## 📫 Contact
 
 * Email: [ljpink718@gmail.com](mailto:ljpink718@gmail.com)
-* GitHub: https://github.com/
+* GitHub: https://github.com/JiapengLeo718
 
 ---
 
